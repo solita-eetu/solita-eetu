@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eetu.
 - 👀 I’m interested in Public Cloud solutions.
-- 🌱 I’m currently learning Azure (AZ-104 & AZ-305).
+- 🌱 I’m currently learning Azure (AZ-305).
 
 <!---
 solita-eetu/solita-eetu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
